@@ -1,4 +1,4 @@
-# github-oauth2-client
+# oauth2-github-client
 GitHub OAuth2.0 Validation Using GitHub Credentials
 
 - Requires php installation on machine.
